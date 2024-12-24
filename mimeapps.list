@@ -14,3 +14,4 @@ application/x-zerosize=code.desktop;
 image/gif=viewnior.desktop
 image/svg+xml=viewnior.desktop
 application/x-zerosize=code.desktop
+x-scheme-handler/postman=Postman.desktop

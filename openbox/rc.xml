@@ -1060,6 +1060,9 @@
   <applications>
     <application class="*">
       <focus>yes</focus>
+      <decor>yes</decor>
+    </application>
+    <application name="firefox">
       <decor>no</decor>
     </application>
     <application name="obconf">
